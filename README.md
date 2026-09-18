@@ -355,7 +355,7 @@ This project demonstrates practical skills in:
 
 ## Author
 
-**Kapil G Ratan**
+**Jeevan M**
 
 MCA — RNS Institute of Technology, Bengaluru
 
